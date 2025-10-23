@@ -4,7 +4,7 @@ Known as "FIGS" officialy, and sometimes referred to as "cubes" for obvious reas
 They are sold in individual 'mystery boxes' that contain a fig from a particular series depicted on the box, as well as a short lanyard to keep the fig on and a collector's guide for the series.
 
 |Image|Name|Series|Rarity
-|-|-|-|-|
+|:-:|-|-|-|
 ![Chanjo](https://aerthlings.com/static/dist/assets/chanjo.E4cbzkRM.png)|Chanjo|Genesis|Common
 ![Chick-A-Boom](https://aerthlings.com/static/dist/assets/chickaboom.CU8tlXkU.png)|Chick-A-Boom|Genesis|Common
 ![Elphie](https://aerthlings.com/static/dist/assets/elphie.CsD8aioA.png)|Elphie|Genesis|Common|s|
