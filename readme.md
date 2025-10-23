@@ -4,4 +4,5 @@ This is a small repo for me to store and share information about [Ærthlings](ht
 
 While the official name is Ærthlings, this documentation will use an easier-to-write Aerthlings.
 
-[Figs](./figs.md)
+* [Figs](./figs.md)
+* [Terraforming](./terraform.md)
