@@ -7,3 +7,4 @@ While the official name is Ærthlings, this documentation will use an easier-to-
 * [Figs](./figs.md)
 * [Terraforming](./terraform.md)
 * [Mutations](./mutation.md)
+* [Crafting](./crafting.md)
